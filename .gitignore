@@ -35,6 +35,7 @@ secrets.json
 # ---- 编辑器 / 系统 ----
 .vscode/
 .idea/
+.workbuddy/
 .DS_Store
 Thumbs.db
 desktop.ini
